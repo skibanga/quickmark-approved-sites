@@ -1,0 +1,12 @@
+[
+    {
+        "site_id": "acme-prod",
+        "site_url": "https://acme.example.com",
+        "status": "active"
+    },
+    {
+        "site_id": "acme-stage",
+        "site_url": "https://staging.acme.example.com",
+        "status": "disabled"
+    }
+]
