@@ -3,7 +3,7 @@
         "site_id": "8484",
         "site_url": "http://192.168.1.108:8000",
         "status": "active"
-    }
+    },
     {
         "site_id": "abc",
         "site_url": "https://abc.app.buildsuite.io",
