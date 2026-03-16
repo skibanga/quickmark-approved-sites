@@ -13,5 +13,15 @@
         "site_id": "bs-dev",
         "site_url": "https://buildsuite-dev.app.buildsuite.io",
         "status": "active"
+    },
+    {
+        "site_id": "smt",
+        "site_url": "https://smt-trial.buildsuite.io",
+        "status": "active"
+    },
+    {
+        "site_id": "fikree",
+        "site_url": "https://fikree.app.buildsuite.io",
+        "status": "active"
     }
 ]
