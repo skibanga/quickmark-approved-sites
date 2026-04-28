@@ -23,5 +23,10 @@
         "site_id": "fikree",
         "site_url": "https://fikree.app.buildsuite.io",
         "status": "active"
+    },
+    {
+        "site_id": "gdes",
+        "site_url": "https://gdes.buildsuite.io",
+        "status": "active"
     }
 ]
