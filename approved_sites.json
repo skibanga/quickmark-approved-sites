@@ -28,5 +28,11 @@
         "site_id": "gdes",
         "site_url": "https://gdes.buildsuite.io",
         "status": "active"
+    },
+    {
+        "site_id": "compact",
+        "site_url": "https://compact.app.buildsuite.io/app",
+        "status": "active"
     }
+
 ]
