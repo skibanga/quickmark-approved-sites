@@ -1,7 +1,7 @@
 [
     {
-        "site_id": "abc",
-        "site_url": "https://abc.app.buildsuite.io",
+        "site_id": "dev",
+        "site_url": "https://dev-14.app.buildsuite.io",
         "status": "active"
     },
     {
