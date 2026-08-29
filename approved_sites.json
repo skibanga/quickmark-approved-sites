@@ -1,6 +1,6 @@
 [
     {
-        "site_id": "dev",
+        "site_id": "dev-14",
         "site_url": "https://dev-14.app.buildsuite.io",
         "status": "active"
     },
@@ -10,8 +10,8 @@
         "status": "active"
     },
     {
-        "site_id": "bs-dev",
-        "site_url": "https://buildsuite-dev.app.buildsuite.io",
+        "site_id": "dev",
+        "site_url": "https://core-dev.buildsuite.io",
         "status": "active"
     },
     {
